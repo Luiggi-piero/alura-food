@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+![image](https://github.com/Luiggi-piero/alura-food/assets/86317658/3a9797ea-81b3-4e2b-ae7c-c7132edb5035)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
