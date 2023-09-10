@@ -14,7 +14,7 @@ export const CounterProvider = ({ children }) => {
         },
         user: {
             status: 'Online',
-            jwt: 'eylkaslfjaeijfaskooe',
+            jwt: 'eylkaslfjaeijfaskooelksaijaoijfakmsefc9vknfoaishefokwefkjaosiuhkzsnjouw',
             theme: 'light'
         }
     }
